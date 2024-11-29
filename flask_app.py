@@ -3,9 +3,6 @@ from flask import Flask, jsonify, render_template, request, send_file
 
 from chatbot.chatbot import Chatbot
 
-PYTHONANYWHERE_USERNAME = "carvice"
-PYTHONANYWHERE_WEBAPPNAME = "mysite"
-
 app = Flask(__name__)
 
 my_type_role = """
