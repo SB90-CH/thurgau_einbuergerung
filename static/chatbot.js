@@ -6,6 +6,7 @@ var istyping_icons = [
     "bi bi-chat-dots ccc",
     "bi bi-chat-dots-fill ccc",
 ];
+
 var session = null;
 var animate_istyping_interval = null;
 
