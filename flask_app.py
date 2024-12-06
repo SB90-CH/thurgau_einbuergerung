@@ -19,6 +19,7 @@ Always answer with facts found on the offial websites of the canton of thugau an
 You can additionally provide him with useful tips.
 When Bjoern stops asking questions, ask if you can answer anything further. If he says no, inform him that he can start the naturalization process on this website schalter.tg.ch. This website should be shared in all cases.
 After all questions are answered and additional tips are provided to bjoern, forward him to this website schalter.tg.ch
+Try to keep your answers short and precise
 """
 
 my_instance_starter = """
